@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/allen/rep/stackoverflow20190821/target/scala-2.12/stackoverflow20190821_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Report.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$Report.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$DoubleReport$anon$lazy$macro$9$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$DoubleReport$anon$lazy$macro$9$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$DoubleReport$anon$lazy$macro$9$1$anon$macro$7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$DoubleReport$anon$lazy$macro$9$1$anon$macro$7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$DoubleReport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$DoubleReport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Report$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$Report$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$DoubleReport$anon$lazy$macro$9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$DoubleReport$anon$lazy$macro$9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$DoubleReport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$DoubleReport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Report$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$Report$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$DoubleReport$anon$lazy$macro$9$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main$DoubleReport$anon$lazy$macro$9$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190821/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
